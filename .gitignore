@@ -1,0 +1,13 @@
+*.pth.tar
+__pycache__/
+venv
+.vscode
+VoxCeleb
+ted
+/vox
+wandb
+Visualize
+.venvc/
+.venv/
+RUN
+.DS_Store
